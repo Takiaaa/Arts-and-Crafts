@@ -13,12 +13,13 @@
   "advancements.adventure.handpicked.title": "精挑细选",
   "advancements.adventure.let_the_creativity_flow_through_you.description": "主手或副手拿粉笔，对图案右击，将循环粉笔图案！！",
   "advancements.adventure.let_the_creativity_flow_through_you.title": "让创造力在你的身体里流淌",
-  "advancements.adventure.no_you_cant_eat_it.description": "制作任一颜色的粉笔!",
+  "advancements.adventure.no_you_cant_eat_it.description": "制作任一颜色的粉笔！",
   "advancements.adventure.no_you_cant_eat_it.title": "别，这你不能吃！",
   "advancements.husbandry.circa_1980.description": "在一朵盛开的莲花中获取一些漂色露珠",
   "advancements.husbandry.circa_1980.title": "1980年前后",
   "advancements.husbandry.let_the_past_bloom.description": "对着睡莲使用莲花花蕊",
   "advancements.husbandry.let_the_past_bloom.title": "让往昔盛放",
+
   "block.arts_and_crafts.beige_pietraforte": "米黄色坚岩",
   "block.arts_and_crafts.beige_pietraforte_brick_slab": "米黄色坚岩砖台阶",
   "block.arts_and_crafts.beige_pietraforte_brick_stairs": "米黄色坚岩砖楼梯",
@@ -703,9 +704,11 @@
   "block.arts_and_crafts.yellow_terracotta_shingle_stairs": "黄色陶砙楼梯",
   "block.arts_and_crafts.yellow_terracotta_shingle_wall": "黄色陶砙墙",
   "block.arts_and_crafts.yellow_terracotta_shingles": "黄色陶砙",
+
   "entity.arts_and_crafts.boat": "软木船",
   "entity.arts_and_crafts.chest_boat": "软木运输船",
   "entity.arts_and_crafts.floating_block": "上浮的方块",
+
   "item.arts_and_crafts.black_chalk_stick": "黑色粉笔",
   "item.arts_and_crafts.black_paintbrush": "黑色染刷",
   "item.arts_and_crafts.bleachdew": "漂色露珠",
@@ -750,7 +753,9 @@
   "item.arts_and_crafts.white_paintbrush": "白色染刷",
   "item.arts_and_crafts.yellow_chalk_stick": "黄色粉笔",
   "item.arts_and_crafts.yellow_paintbrush": "黄色染刷",
+
   "tab.arts_and_crafts.configurable_tab": "艺术创作",
+
   "tooltip.arts_and_crafts.chalk_pattern_0": "点状 图案",
   "tooltip.arts_and_crafts.chalk_pattern_1": "垂直线 图案",
   "tooltip.arts_and_crafts.chalk_pattern_2": "水平线 图案",
